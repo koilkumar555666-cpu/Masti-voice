@@ -1,0 +1,6 @@
+{
+  "name": "Masti Voice",
+  "description": "Fun voice changer, audio effects studio, and voice recorder with soundboards and audio customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
